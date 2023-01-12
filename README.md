@@ -10,5 +10,4 @@
 - 🌱 I’m currently learning front-end at RSS School
 - ⚡ Now I'm looking for practice/internship/job
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polivodichka&count_private=true&show_icons=true&theme=merko) \
 ![](https://www.codewars.com/users/polivodichka/badges/large)
