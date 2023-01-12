@@ -10,4 +10,3 @@
 - 🌱 I’m currently learning front-end at RSS School
 - ⚡ Now I'm looking for practice/internship/job
 
-![](https://www.codewars.com/users/polivodichka/badges/large)
