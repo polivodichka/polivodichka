@@ -7,6 +7,6 @@
         <a href="mailto:polivoda.anastasiia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 
-- 🌱 Successfully completed JavaScript and React courses at RSS School
+- 👩🏻‍🎓 Successfully completed JavaScript and React courses at RSS School
 - ⚡ Now I'm looking for practice/internship/job
 
