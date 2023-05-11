@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1563F7&center=true&width=600&lines=Hi+there+I'm+Anastasia;Junior+front-end+developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1563F7&center=true&width=600&lines=Hi+there+I'm+Anastasia;Junior+frontend+developer" alt="Typing SVG" />
     </div>
 <div align=center>
         <a href="https://www.linkedin.com/in/anastasia-polivoda-1bb630227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
