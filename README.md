@@ -10,4 +10,5 @@
 
 - 👩🏻‍🎓 Successfully completed [JavaScript](https://app.rs.school/certificate/30e3yos5) and [React](https://app.rs.school/certificate/8d8nr4sd) courses at RSS School
 - ⚡ Now I'm looking for practice/internship/job
+- 🐱‍🏍Completed [TypeScript Bootcamp](https://typescript-bootcamp.evolution.com/) at Evolution Gaming. [Course project](https://github.com/polivodichka/blackjack)
 
